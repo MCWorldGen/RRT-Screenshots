@@ -26,12 +26,14 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 | RRT Special edition ( v1.5 ) [ Beta ] | Screenshot | Screenshot2 |
 |-------------------|------------|------------|
-| - Height: __-64 / 1024__<br>- Gallery<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+| - Height: __-64 / 1024__<br>- Gallery<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
 
 
 | ~~RRT Mini edition ( v1.5 )~~ [ Upcoming ] | Screenshot |
 |-------------------|------------|
-| - Height: __-64 / 320__<br>- Gallery<br>- 17 Regions <br>- Smaller immersive Regions <br>- Flat/ish Terrain <br>- Geyser friendly<br>- High Quality Noise <br> -------------------- <br> - Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+| - Height: __-64 / 320__<br>- Gallery<br>- 17 Regions <br>- Smaller immersive Regions <br>- Flat/ish Terrain <br>- Geyser friendly<br>- High Quality Noise <br> -------------------- <br> - Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/mini.png" alt="RRT Special Edition Screenshot" width="300"> |
+
+#### - If you are interested feel free to contact RePixelatedMC On discord!
 
 ## Faq
 #### Doesnt 1024 height cause a lot of lag?
@@ -46,11 +48,8 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 #### Does this require any dependencies?
 ##### - This is a pack for the Iris Dimension Engine and you will need Iris to run this.
 
-#### Does this require any dependencies?
-##### - This is a pack for the Iris Dimension Engine and you will need Iris to run this.
-
 #### Why is it in a Beta?
-##### - There are still a lot of improvement points we can make and nowhere near finished!
+##### - There are still many areas for improvement, and it is nowhere near finished!
 
 ## How to use
 
