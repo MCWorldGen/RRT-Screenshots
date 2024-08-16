@@ -37,7 +37,7 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 ## Faq
 #### Doesnt 1024 height cause a lot of lag?
-##### - It shouldnt cause any major lag on your server and perhaps only a small increase in loading time but that should be it!
+##### - It will increase the bandwitdh usage of your world and load time per chunk and overall client resources as well, but as long you dont have 12y old hardware it should be fine.
 
 #### What versions do we support?
 ##### - We support everything in between 1.19.4 > 1.21
