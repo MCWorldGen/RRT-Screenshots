@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/MCWorldGen/RRT-Screenshots"><img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallary/icons/2024-02-07_01.17.28-modified.png" alt="RRT" width="200"></a>
+  <a href="https://github.com/MCWorldGen/RRT-Screenshots"><img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/icons/2024-02-07_01.17.28-modified.png" alt="RRT" width="200"></a>
   <br>
   RRT Series [ Beta ]
   <br>
@@ -19,19 +19,19 @@
 ## Introduction
 RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generation that brings a whole new level of excitement to exploring your world. We’ve revamped how terrain is created, resulting in more diverse and intriguing landscapes. Expect to encounter unique biomes, beautiful terrain, and a richer overall experience. With RRT, every new area you explore will offer surprises and adventures that keep the game feeling new and engaging. Dive in and discover a Minecraft world like never before!
 
-[ Website Under Construction, This is a temporary page ]
+[ _Website Under Construction, This is a temporary page_ ]
 
 
 ## Pricings
 
-| RRT Special edition ( v1.5 ) [ Beta ] | Screenshot |
-|-------------------|------------|
-| - Height: __-64 / 1024__<br>- Gallery<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallary/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+| RRT Special edition ( v1.5 ) [ Beta ] | Screenshot | Screenshot2 |
+|-------------------|------------|------------|
+| - Height: __-64 / 1024__<br>- Gallery<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
 
 
 | ~~RRT Mini edition ( v1.5 )~~ [ Upcoming ] | Screenshot |
 |-------------------|------------|
-| - Height: __-64 / 320__<br>- Gallery<br>- 17 Regions <br>- Smaller immersive Regions <br>- Flat/ish Terrain <br>- Geyser friendly<br>- High Quality Noise <br> -------------------- <br> - Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallary/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+| - Height: __-64 / 320__<br>- Gallery<br>- 17 Regions <br>- Smaller immersive Regions <br>- Flat/ish Terrain <br>- Geyser friendly<br>- High Quality Noise <br> -------------------- <br> - Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
 
 ## Faq
 #### Doesnt 1024 height cause a lot of lag?
@@ -48,6 +48,9 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 #### Does this require any dependencies?
 ##### - This is a pack for the Iris Dimension Engine and you will need Iris to run this.
+
+#### Why is it in a Beta?
+##### - There are still a lot of improvement points we can make and nowhere near finished!
 
 ## How to use
 
