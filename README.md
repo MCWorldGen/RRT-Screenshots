@@ -68,6 +68,8 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 ## Related
 - [Iris Dimension Engine](https://github.com/VolmitSoftware/Iris)
 - [Classic Overworld Pack](https://github.com/IrisDimensions/overworld)
+- [Coven Resource Pack](https://www.patreon.com/feudalist?utm_campaign=creatorshare_creator)
+
 
 
 
