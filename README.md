@@ -26,7 +26,7 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 | RRT Special edition ( v1.5 ) [ Beta ] | Screenshot | Screenshot2 |
 |-------------------|------------|------------|
-| - Height: __-64 / 1024__<br>- Gallery<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+| - Height: __-64 / 1024__<br>- [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>- 17 Regions<br>- Stunning Sceneries<br>- Large immersive Regions<br>- Terrain with Depth<br>- High Quality Noise <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
 
 
 | ~~RRT Mini edition ( v1.5 )~~ [ Upcoming ] | Screenshot |
