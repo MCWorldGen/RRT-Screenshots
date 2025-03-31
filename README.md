@@ -25,7 +25,6 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 ## Pricings
 
 ### RRT Special Edition (v1.5) [Beta]
-<div align="center">
 
 | Features | Description |
 |----------|-------------|
@@ -33,10 +32,10 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 ### Screenshot Gallery
 <details open>
-<summary>Click to toggle gallery</summary>
+<summary>▼ Click to toggle gallery</summary>
 
 | Showcase Screenshots |
-|---------------------|
+|:-------------------:|
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.43.37.png" alt="Screenshot 1" width="800"> |
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.45.44.png" alt="Screenshot 2" width="800"> |
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.51.26.png" alt="Screenshot 3" width="800"> |
@@ -44,7 +43,6 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image2.png" alt="Screenshot 5" width="800"> |
 
 </details>
-</div>
 
 ### RRT Mini Edition (v1.5) [Upcoming]
 <div align="center">
