@@ -91,6 +91,14 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
       <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="Screenshot 10" width="400">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="Screenshot 11" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-01_10.52.55-2.png" alt="Screenshot 12" width="400">
+    </td>
+  </tr>
 </table>
 
 </details>
