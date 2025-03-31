@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://github.com/MCWorldGen/RRT-Screenshots"><img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/icons/2024-02-07_01.17.28-modified.png" alt="RRT" width="200"></a>
@@ -49,29 +48,76 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 <details open>
 <summary>Click to toggle gallery</summary>
 
-| Showcase Screenshots |
-|---------------------|
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.43.37.png" alt="Screenshot 1" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.45.44.png" alt="Screenshot 2" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.51.26.png" alt="Screenshot 3" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image.png" alt="Screenshot 4" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image2.png" alt="Screenshot 5" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.17.28.png" alt="Screenshot 6" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.25.07.png" alt="Screenshot 7" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.28.10.png" alt="Screenshot 8" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.18.23.png" alt="Screenshot 9" width="800"> |
-| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="Screenshot 10" width="800"> |
+<table>
+  <tr>
+    <th colspan="2" align="center">Showcase Screenshots</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.43.37.png" alt="Screenshot 1" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.45.44.png" alt="Screenshot 2" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.51.26.png" alt="Screenshot 3" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image.png" alt="Screenshot 4" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image2.png" alt="Screenshot 5" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.17.28.png" alt="Screenshot 6" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.25.07.png" alt="Screenshot 7" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.28.10.png" alt="Screenshot 8" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.18.23.png" alt="Screenshot 9" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="Screenshot 10" width="400">
+    </td>
+  </tr>
+</table>
 
 </details>
 
 ### RRT Mini Edition (v1.5) [Upcoming]
-<div align="center">
 
-| Features | Screenshot |
-|----------|------------|
-| • Height: **-64 / 320**<br>• Gallery<br>• 17 Regions<br>• Smaller immersive Regions<br>• Flat/ish Terrain<br>• Geyser friendly<br>• Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/mini.png" alt="RRT Mini Edition Screenshot" width="300"> |
-
-</div>
+<table>
+  <tr>
+    <th align="left">Features</th>
+    <th align="left">Screenshot</th>
+  </tr>
+  <tr>
+    <td>
+      • Height: <b>-64 / 320</b><br><br>
+      • Gallery<br><br>
+      • 17 Regions<br><br>
+      • Smaller immersive Regions<br><br>
+      • Flat/ish Terrain<br><br>
+      • Geyser friendly<br><br>
+      • Price: €XX
+    </td>
+    <td align="center">
+      <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/mini.png" alt="RRT Mini Edition Screenshot" width="300">
+    </td>
+  </tr>
+</table>
 
 > **Note:** If you are interested, feel free to contact RePixelatedMC on Discord!
 
