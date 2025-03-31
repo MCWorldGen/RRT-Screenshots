@@ -25,13 +25,25 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 ## Pricings
 
 ### RRT Special Edition (v1.5) [Beta]
-<div align="center">
 
-| Features | Description |
-|----------|-------------|
-| • Height: **-64 / 1024**<br>• [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>• 17 Regions<br>• Large immersive Regions<br>• Price: €45 (Access to RRT Series) | A fresh take on minecraft generation from scratch featuring new overhauled regions and new content with breathtaking sceneries with survival taken in mind! |
-
-</div>
+<table>
+  <tr>
+    <th align="left">Features</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td>
+      • Height: <b>-64 / 1024</b><br><br>
+      • <a href="https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153">Gallery</a><br><br>
+      • 17 Regions<br><br>
+      • Large immersive Regions<br><br>
+      • Price: €45<br>(Access to RRT Series)
+    </td>
+    <td>
+      A fresh take on minecraft generation from scratch featuring new overhauled regions and new content with breathtaking sceneries with survival taken in mind!
+    </td>
+  </tr>
+</table>
 
 ### Screenshot Gallery
 <details open>
