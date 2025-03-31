@@ -28,11 +28,11 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 
 | Features | Description |
 |----------|-------------|
-| • Height: **-64 / 1024**<br>• [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>• 17 Regions<br>• Large immersive Regions<br>• Price: €45 (Access to RRT Series) | Experience vast landscapes with incredible height ranges, from deep caverns to towering mountains. Our custom regions feature unique biomes, dramatic terrain formations, and breathtaking vistas that will transform your Minecraft experience. |
+| • Height: **-64 / 1024**<br>• [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>• 17 Regions<br>• Large immersive Regions<br>• Price: €45 (Access to RRT Series) | A fresh take on minecraft generation from scratch featuring new overhauled regions and new content with breathtaking sceneries with survival taken in mind! |
 
 ### Screenshot Gallery
 <details open>
-<summary>▼ Click to toggle gallery</summary>
+<summary>Click to toggle gallery</summary>
 
 | Showcase Screenshots |
 |:-------------------:|
@@ -41,6 +41,11 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.51.26.png" alt="Screenshot 3" width="800"> |
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image.png" alt="Screenshot 4" width="800"> |
 | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image2.png" alt="Screenshot 5" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.17.28.png" alt="Screenshot 6" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.25.07.png" alt="Screenshot 7" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-02-07_01.28.10.png" alt="Screenshot 8" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.18.23.png" alt="Screenshot 9" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="Screenshot 10" width="800"> |
 
 </details>
 
