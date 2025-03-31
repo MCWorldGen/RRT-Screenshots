@@ -33,7 +33,6 @@ RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generati
   <tr>
     <td>
       • Height: <b>-64 / 1024</b><br><br>
-      • <a href="https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153">Gallery</a><br><br>
       • 17 Regions<br><br>
       • Large immersive Regions<br><br>
       • Price: €45<br>(Access to RRT Series)
