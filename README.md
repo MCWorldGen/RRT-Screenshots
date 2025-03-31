@@ -17,28 +17,47 @@
 </p>
 
 ## Introduction
-RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generation that brings a whole new level of excitement to exploring your world. We’ve revamped how terrain is created, resulting in more diverse and intriguing landscapes. Expect to encounter unique biomes, beautiful terrain, and a richer overall experience. With RRT, every new area you explore will offer surprises and adventures that keep the game feeling new and engaging. Dive in and discover a Minecraft world like never before!
+RRT, or RePixels Remastered Terrain, is a fresh take on Minecraft world generation that brings a whole new level of excitement to exploring your world. We've revamped how terrain is created, resulting in more diverse and intriguing landscapes. Expect to encounter unique biomes, beautiful terrain, and a richer overall experience. With RRT, every new area you explore will offer surprises and adventures that keep the game feeling new and engaging. Dive in and discover a Minecraft world like never before!
 
 [ _Website Under Construction, This is a temporary page_ ]
 
 
 ## Pricings
 
-| RRT Special edition ( v1.5 ) [ Beta ] | Screenshot | Screenshot2 |
-|-------------------|------------|------------|
-| - Height: __-64 / 1024__<br>- [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>- 17 Regions<br>- Large immersive Regions <br> -------------------- <br> - Price: €45 ( Access to RRT Series ) | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.29.53.png" alt="RRT Special Edition Screenshot" width="300"> | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2024-05-07_18.33.05.png" alt="RRT Special Edition Screenshot" width="300"> |
+### RRT Special Edition (v1.5) [Beta]
+<div align="center">
 
+| Features | Description |
+|----------|-------------|
+| • Height: **-64 / 1024**<br>• [Gallery](https://discord.com/channels/189665083817852928/1236494552173514914/1274333596814938153)<br>• 17 Regions<br>• Large immersive Regions<br>• Price: €45 (Access to RRT Series) | Experience vast landscapes with incredible height ranges, from deep caverns to towering mountains. Our custom regions feature unique biomes, dramatic terrain formations, and breathtaking vistas that will transform your Minecraft experience. |
 
-| ~~RRT Mini edition ( v1.5 )~~ [ Upcoming ] | Screenshot |
-|-------------------|------------|
-| - Height: __-64 / 320__<br>- Gallery<br>- 17 Regions <br>- Smaller immersive Regions <br>- Flat/ish Terrain <br>- Geyser friendly <br> -------------------- <br> - Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/mini.png" alt="RRT Special Edition Screenshot" width="300"> |
+### Screenshot Gallery
+<details open>
+<summary>Click to toggle gallery</summary>
 
-#### - If you are interested feel free to contact RePixelatedMC On discord!
+| Showcase Screenshots |
+|---------------------|
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.43.37.png" alt="Screenshot 1" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.45.44.png" alt="Screenshot 2" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/2025-01-20_20.51.26.png" alt="Screenshot 3" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image.png" alt="Screenshot 4" width="800"> |
+| <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/image2.png" alt="Screenshot 5" width="800"> |
+
+</details>
+</div>
+
+### RRT Mini Edition (v1.5) [Upcoming]
+<div align="center">
+
+| Features | Screenshot |
+|----------|------------|
+| • Height: **-64 / 320**<br>• Gallery<br>• 17 Regions<br>• Smaller immersive Regions<br>• Flat/ish Terrain<br>• Geyser friendly<br>• Price: €XX | <img src="https://github.com/MCWorldGen/RRT-Screenshots/blob/main/gallery/mini.png" alt="RRT Mini Edition Screenshot" width="300"> |
+
+</div>
+
+> **Note:** If you are interested, feel free to contact RePixelatedMC on Discord!
 
 ## Faq
-
-#### What versions do we support?
-##### - We support everything in between 1.19.4 > 1.21
 
 #### What hardware do i need to run this?
 ##### - Anything should be fine as long as you pregen and have 4gb+ ram on the server!
